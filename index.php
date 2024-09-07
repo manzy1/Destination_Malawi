@@ -101,7 +101,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <h1 class="mb-4">Welco to Destination Malawi</h1>
+                    <h1 class="mb-4">Welcome to Destination Malawi</h1>
                     <p class="mb-4">Your one stop Guide to the best places Malawi has to offer...</p>
                     <p class="mb-4">From national parks to the fresh waters of the Lake Malawi, we have your back in taking you to the best places this country has to offer. VISIT US!!</p>
                     <div class="row gy-2 gx-4 mb-4">
