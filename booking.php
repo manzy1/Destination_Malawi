@@ -159,6 +159,7 @@
                                         <div class="form-floating">
                                             <textarea class="form-control bg-transparent" placeholder="For other Destinations, please specify Here" id="message" style="height: 100px" name="Notes"></textarea>
                                             <label for="message">Other</label>
+                                            <label for="message">For other Destinations, please specify Here</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
