@@ -56,7 +56,7 @@
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
                 <h1 style="color: rgb(163, 163, 223);"><i class="fa fa-map-marker-alt me-3"></i>Destination Malawi</h1>
-                <h6 style="color: rgb(163, 163, 223);">Welcome: <?php echo $_SESSION["user_id"]; ?> </h6>
+                <h6 style="color: rgb(163, 163, 223);">Welcome: <?php echo $_user["id"]; ?> </h6>
 
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
