@@ -62,7 +62,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
     
     <?php if ($is_invalid): ?>
-        <em>Invalid login Details</em>
+        <em style="color: red;">Invalid login Details</em>
     <?php endif; ?>
     
     <form method="post">
